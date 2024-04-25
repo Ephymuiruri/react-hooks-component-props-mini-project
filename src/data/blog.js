@@ -4,7 +4,7 @@ const blogData = {
   name: "Underreacted",
   image: logo,
   about: "A blog about learning React",
-  posts: [
+  posts:[
     {
       id: 1,
       title: "Components 101",
@@ -25,7 +25,7 @@ const blogData = {
       preview: "React, meet OOJS.",
       minutes: 47,
     },
-  ],
+  ]
 };
 
 export default blogData;
